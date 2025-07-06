@@ -24,7 +24,7 @@ This extension helps users avoid misinformation by analyzing ad text and display
 - 🔐 Displays trust score (0–100)
 - 🔗 Checks Google Fact Check API for credible sources
 - 🌐 Built as a browser extension (content script)
-- 🗃️ Logs each analysis result to backend database
+- 🗃️ Logs each analysis result to the backend database
 
 ---
 
@@ -45,8 +45,8 @@ This extension helps users avoid misinformation by analyzing ad text and display
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/fake-ad-detector-extension.git
-cd fake-ad-detector-extension
+git clone https://github.com/yourusername/Fake-Ad-Detector.git
+cd Fake-Ad-Detector
 ```
 
 ### 2. Backend Setup (Flask):
@@ -70,26 +70,17 @@ cd fake-ad-detector-extension
 
 ---
 
-## 📸 Screenshots
-
-- Highlighted ad elements
-- Tooltips showing verdict & trust score
-- Console logs from backend
-- Fact-check link preview
-
----
-
 ## 📊 Performance
 
 - Handles 20–30 ad segments per page
-- Average analysis time: < 1 second
+- Average analysis time: a few seconds
 - Backend hosted locally (can be deployed on Heroku/Render)
 
 ---
 
 ## 📌 Future Enhancements
 
-- Host as public Chrome extension
+- Host as a public Chrome extension
 - Admin dashboard for ad stats
 - User feedback for model fine-tuning
 - Multilingual ad detection
@@ -101,10 +92,10 @@ cd fake-ad-detector-extension
 
 - **Demo Video:** [Demo Link](#)
 - **Prototype PPT:** [Submission Slides](#)
-- **Hosted Backend:** `http://localhost:5000/analyze` (or your cloud URL)
+- **Hosted Backend:** `http://localhost:5000/analyze`
 
 ---
 
 ## 🧑‍💻 License
 
-MIT License © 2025 CacheMeOutside
+License © 2025 CacheMeOutside
