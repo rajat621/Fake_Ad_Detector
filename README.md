@@ -90,8 +90,8 @@ cd Fake-Ad-Detector
 
 ## 📎 Links
 
-- **Demo Video:** [https://drive.google.com/file/d/117Upcu_nnYRReoo7ozZCelNH6H-FD146/view?usp=drivesdk](#)
-- **Prototype PPT:** [Submission Slides](#)
+- **Demo Video:** [Demo Video](https://drive.google.com/file/d/117Upcu_nnYRReoo7ozZCelNH6H-FD146/view?usp=drivesdk)
+- **Prototype PPT:** [Submission Slides](https://docs.google.com/presentation/d/1cD2zHqLP3PumSzWpeQsobMpgdD4Uwn9l/edit?usp=sharing&ouid=116071779133083819596&rtpof=true&sd=true)
 - **Hosted Backend:** `http://localhost:5000/analyze`
 
 ---
