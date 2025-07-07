@@ -17,7 +17,7 @@ cohere==5.15.0
 colorama==0.4.6
 configparser==7.2.0
 constantly==23.10.4
-coverage==7.9.2
+coverage==6.5.0
 coveralls==3.3.1
 cryptography==45.0.5
 decorator==5.2.1
