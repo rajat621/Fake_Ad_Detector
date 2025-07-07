@@ -17,8 +17,6 @@ cohere==5.15.0
 colorama==0.4.6
 configparser==7.2.0
 constantly==23.10.4
-coverage==6.5.0
-coveralls==3.3.1
 cryptography==45.0.5
 decorator==5.2.1
 distro==1.9.0
@@ -65,7 +63,6 @@ pydantic_core==2.33.2
 Pygments==2.19.2
 pyOpenSSL==25.1.0
 pytest==8.4.1
-pytest-cov==6.2.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.1
 pytz==2025.2
