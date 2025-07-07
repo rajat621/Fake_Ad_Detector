@@ -93,7 +93,7 @@ const suspiciousKeywords = [
         el.style.border = "2px solid orange";
         el.setAttribute("title", "Analyzing ad...");
 
-        fetch("https://fake-ad-detector.onrender.com/analyze", {
+        fetch("http://localhost:5000/analyze", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ text: el.innerText })
