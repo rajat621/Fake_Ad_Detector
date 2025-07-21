@@ -98,4 +98,4 @@ cd Fake-Ad-Detector
 
 ## 🧑‍💻 License
 
-License © 2025 CacheMeOutside
+Copyright (c) 2025 rajat621
